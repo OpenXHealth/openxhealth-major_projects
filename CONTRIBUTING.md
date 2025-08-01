@@ -1,6 +1,3 @@
-### 📄 `CONTRIBUTING.md`
-
-````md
 # 🤝 Contributing to OpenXHealth
 
 Thank you for your interest in contributing to **OpenXHealth**!  
