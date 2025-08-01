@@ -23,7 +23,7 @@ We welcome contributions from everyone — whether you're a beginner or an exper
 2. **Clone** your fork:
    ```bash
    git clone https://github.com/your-username/openxhealth_majorproject.git
-````
+``
 
 3. **Create a branch**:
 
