@@ -13,7 +13,7 @@
 
 ### 📖 Abstract
 
-Brain tumors are abnormal growths in the brain that can be life-threatening. Accurate and early diagnosis is essential for effective treatment. This project leverages **transfer learning** using a pre-trained deep learning model (`pneumonia.h5`) to **classify brain MRI images** into tumor and non-tumor categories.
+Brain tumors are abnormal growths in the brain that can be life-threatening. Accurate and early diagnosis is essential for effective treatment. This project leverages **transfer learning** using a pre-trained deep learning model to **classify brain MRI images** into tumor and non-tumor categories.
 
 We built an **interactive Streamlit web application** that enables users to upload MRI images and receive real-time predictions, improving accessibility for non-technical users.
 
